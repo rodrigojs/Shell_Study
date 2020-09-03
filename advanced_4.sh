@@ -4,7 +4,7 @@ echo 'Hello World'
 
 arg=$1
 
-echo arg = $arg
+echo arg = "$arg"
 
 set -x
 echo AAA
